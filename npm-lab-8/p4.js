@@ -9,6 +9,7 @@ app.get("/user/:id",(req,res)=>{
 
 app.get("/user",(req,res)=>{
     res.send(req.query)
+    
 })
 
 app.post("/register",(req,res)=>{
