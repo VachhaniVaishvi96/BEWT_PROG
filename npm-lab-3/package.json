@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "npm-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaishvi",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cookies": "^0.9.1",
+    "jest": "^30.2.0",
+    "koa": "^3.1.1",
+    "lodash": "^4.17.1"
+  }
+}
